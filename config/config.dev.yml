@@ -1,0 +1,4 @@
+keyArn: 'arn:aws:kms:ap-southeast-2:378790162356:key/0c39b1f4-0c09-4a1e-b957-e39f865b4f0a'
+secrets:
+    gmsPassword:  xxxxxx
+  
